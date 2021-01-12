@@ -10,6 +10,8 @@
 
 - It can be a little overwhelming or cause JavaScript Fatigue all the technologies, tools, packages managers, transpilers, module bundlres, and infinite list of different libraries.
 
+---
+
 ### Breaking it down, to avoid fatigue.
 
 - But a good way to to start for a simple UI, is use createElements.
@@ -25,6 +27,8 @@
 --- <07/01/20201> Got no idea of why vvv ---
 
 - Then the time will come to split out application into separeted modules and organize out files in the right way. At that point, we should start thinking about suing module bundler.
+
+---
 
 #### Using CLI to start a React App
 
