@@ -64,3 +64,5 @@ Will be translated as on JS:
 var foo = { id: 'bar' };
 return React.createElement('div', foo);
 ```
+
+...
